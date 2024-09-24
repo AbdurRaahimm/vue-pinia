@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Learn Vue 3",
+      "content": "Content 1"
+    },
+    {
+      "id": "2",
+      "title": "Learn Pinia",
+      "content": "Content 2"
+    }
+  ]
+}
