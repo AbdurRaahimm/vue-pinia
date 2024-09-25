@@ -39,7 +39,7 @@ const handleRemoveData = async (id) => {
     <div v-if="state.loading" class="text-2xl text-center font-semibold">Loading...</div>
 
     <!-- Error state -->
-    <div v-else-if="state.error" class="text-red-500">
+    <div v-else-if="state.error" class="text-red-500 text-2xl text-center font-semibold">
       Error: {{ state.error }}
     </div>
 

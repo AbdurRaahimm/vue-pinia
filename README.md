@@ -1,17 +1,21 @@
-# vue-pinia
+# Vue Pinia 
+This project is a simple Vue 3 project that uses the Pinia state management library. It is a simple counter application that demonstrates the use of Pinia. and todo list application that demonstrates the use of Pinia. API CRUD operations are performed on Blog posts that made with json server.
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
+### Clone the repository and navigate to the project directory.
+
+```sh
+git clone https://github.com/AbdurRaahimm/vue-pinia.git
+```
+
+### Go to the project directory
+```sh
+cd vue-pinia
+```
+
+### Install Dependencies
 ```sh
 npm install
 ```
@@ -27,3 +31,25 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## Features
+- Counter application with Pinia
+- Todo list application with Pinia
+- CRUD operations with json server API for Blog posts with Pinia
+
+## Built With
+- Vue 3 with pinia state management 
+- Tailwind CSS
+- Fetch API for API requests 
+- JSON Server for API mock server 
+
+
+## License
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Connect on Social Media
+- [Twitter](https://twitter.com/AbdurRahim4G)
+- [Instagram](https://www.instagram.com/abdurrahim4g/)
+- [Facebook](https://www.facebook.com/Rahim72446)
+- [LinkedIn](https://www.linkedin.com/in/abdur-rahim4g/)
+- [YouTube](https://youtube.com/@AbdurRahimm)
