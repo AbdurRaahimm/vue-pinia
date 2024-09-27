@@ -31,6 +31,10 @@ npm run dev
 ```sh
 npm run build
 ```
+### Start JSON Server
+```sh
+npm run server
+```
 
 ## Features
 - Counter application with Pinia
@@ -42,6 +46,17 @@ npm run build
 - Tailwind CSS
 - Fetch API for API requests 
 - JSON Server for API mock server 
+
+
+## Live Demo
+ [Live Demo](https://vue-piniaa.netlify.app/)
+
+
+## Screenshots
+![Counter App](public/image.png) 
+![Todo App](public/image-1.png)
+![API CRUD](public/image-2.png)
+
 
 
 ## License
